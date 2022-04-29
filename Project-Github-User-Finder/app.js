@@ -26,6 +26,7 @@ searchUser.addEventListener('keyup', (e) => {
 
                 // Show the profile
                 ui.showProfile(data.profile);
+                ui.showRepos(data.repos);
 
             }
         } );
@@ -34,7 +35,7 @@ searchUser.addEventListener('keyup', (e) => {
 
         // Clear the profile
         ui.clearProfile();
-
+        
     }
 
 });
