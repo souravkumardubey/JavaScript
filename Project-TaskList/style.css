@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-attachment: fixed;
+    background-color: #fcb045;
+    padding-top: 5em;
+}
